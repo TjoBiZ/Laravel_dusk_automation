@@ -1,5 +1,6 @@
 .env
 .env.backup
+.env.dusk*
 .phpunit.result.cache
 docker-compose.override.yml
 yarn-error.log
